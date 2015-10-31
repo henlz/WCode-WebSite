@@ -1,0 +1,311 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Material Design (par Amauri)\n"
+"POT-Creation-Date: 2015-07-12 17:37+0200\n"
+"PO-Revision-Date: 2015-07-12 17:37+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:44
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: archive.php:41 inc/template-tags.php:26 index.php:44 search.php:35
+msgid "Older posts"
+msgstr ""
+
+#: archive.php:42 inc/template-tags.php:30 index.php:45 search.php:36
+msgid "Newer posts"
+msgstr ""
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:38 comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:41 comments.php:62
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:42 comments.php:63
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:24
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:24
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:26
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:52
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:95
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:105
+msgid "Footer"
+msgstr ""
+
+#: functions.php:157
+msgid "Read More"
+msgstr ""
+
+#: header.php:34
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer.php:22
+msgid "Color of the toolbar"
+msgstr ""
+
+#: inc/customizer.php:27
+msgid "Color of links, input, ..."
+msgstr ""
+
+#: inc/customizer.php:51
+msgid "Logo (72x72 - hdpi)"
+msgstr ""
+
+#: inc/customizer.php:53
+#, php-format
+msgid ""
+"Upload a logo to replace the default one in the drawer header. <a href=\"%1$s"
+"\" target=\"_blank\"><b>Generate for free here!</b></a>"
+msgstr ""
+
+#: inc/customizer.php:57
+msgid "Logo"
+msgstr ""
+
+#: inc/extras.php:52
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/template-tags.php:85
+#, php-format
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:90
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:97 inc/template-tags.php:103
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:99
+#, php-format
+msgid "in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:105
+#, php-format
+msgid ", tagged: %1$s"
+msgstr ""
+
+#: inc/template-tags.php:118 template-parts/content-page.php:25
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:135
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: inc/template-tags.php:137
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/template-tags.php:139
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: inc/template-tags.php:141
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-tags.php:141
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:143
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: inc/template-tags.php:143
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:145
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: inc/template-tags.php:145
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:148
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:150
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:152
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:154
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:156
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:158
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:160
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:162
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:164
+msgid "Chats"
+msgstr ""
+
+#: inc/template-tags.php:167
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:171
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:173
+msgid "Archives"
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:18 template-parts/content-single.php:24
+#: template-parts/content.php:53
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-search.php:45 template-parts/content.php:45
+msgid "Read more"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Material Design (par Amauri)"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://android.ferank.fr/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This is a clean, modern and responsive theme focused on the content, based "
+"on the Material Design guidelines for Android App."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Amauri CHAMPEAUX"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://amauri.champeaux.fr/"
+msgstr ""

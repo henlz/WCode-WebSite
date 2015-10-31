@@ -1,0 +1,325 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Material Design (par Amauri)\n"
+"POT-Creation-Date: 2015-07-12 17:38+0200\n"
+"PO-Revision-Date: 2015-07-12 17:48+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-Bookmarks: -1,1,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups! Page introuvable."
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Cette page semble introuvable, peut-être pourriez vous utiliser l’un des "
+"liens ci-dessous ou effectuer une recherche?"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Catégories les plus utilisées"
+
+#: 404.php:44
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Tentez de regarder dans les archives mensuelles. %1$s"
+
+#: archive.php:41 inc/template-tags.php:26 index.php:44 search.php:35
+msgid "Older posts"
+msgstr "Anciens articles"
+
+#: archive.php:42 inc/template-tags.php:30 index.php:45 search.php:36
+msgid "Newer posts"
+msgstr "Nouveaux articles"
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Une réaction sur &laquo;%2$s&raquo;"
+msgstr[1] "%1$s réactions sur &ldquo;%2$s&rdquo;"
+
+#: comments.php:38 comments.php:59
+msgid "Comment navigation"
+msgstr "Commentaire de navigation"
+
+#: comments.php:41 comments.php:62
+msgid "Older Comments"
+msgstr "Anciens commentaires"
+
+#: comments.php:42 comments.php:63
+msgid "Newer Comments"
+msgstr "Nouveaux commentaires"
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: footer.php:24
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: footer.php:24
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "Fièrement propulsé par %s"
+
+#: footer.php:26
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr "Thème : %1$s par %2$s."
+
+#: functions.php:52
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: functions.php:95
+msgid "Sidebar"
+msgstr "Barre latérale"
+
+#: functions.php:105
+msgid "Footer"
+msgstr "Pied de page"
+
+#: functions.php:157
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: header.php:34
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: inc/customizer.php:22
+msgid "Color of the toolbar"
+msgstr "Couleur de la barre fixe du haut"
+
+#: inc/customizer.php:27
+msgid "Color of links, input, ..."
+msgstr "Couleur des liens, des champs, ..."
+
+#: inc/customizer.php:51
+msgid "Logo (72x72 - hdpi)"
+msgstr "Logo (72x72 - hdpi)"
+
+#: inc/customizer.php:53
+#, php-format
+msgid ""
+"Upload a logo to replace the default one in the drawer header. <a href=\"%1$s"
+"\" target=\"_blank\"><b>Generate for free here!</b></a>"
+msgstr ""
+"Téléversez le logo à afficher dans l'entête du menu de gauche. <a href=\"%1$s"
+"\" target=\"_blank\"><b>Créez un logo Material Design gratuitement ici !</"
+"b></a>"
+
+#: inc/customizer.php:57
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/extras.php:52
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+#: inc/template-tags.php:85
+#, php-format
+msgid "Posted on %s"
+msgstr "Publié le %s"
+
+#: inc/template-tags.php:90
+#, php-format
+msgid "by %s"
+msgstr "par %s"
+
+#: inc/template-tags.php:97 inc/template-tags.php:103
+msgid ", "
+msgstr ","
+
+#: inc/template-tags.php:99
+#, php-format
+msgid "in %1$s"
+msgstr "dans %1$s"
+
+#: inc/template-tags.php:105
+#, php-format
+msgid ", tagged: %1$s"
+msgstr ". Mots-clés: %1$s"
+
+#: inc/template-tags.php:118 template-parts/content-page.php:25
+msgid "Edit"
+msgstr "Modifier"
+
+#: inc/template-tags.php:135
+#, php-format
+msgid "Category: %s"
+msgstr "Catégorie : %s"
+
+#: inc/template-tags.php:137
+#, php-format
+msgid "Tag: %s"
+msgstr "Étiquette : %s"
+
+#: inc/template-tags.php:139
+#, php-format
+msgid "Author: %s"
+msgstr "Auteur : %s"
+
+#: inc/template-tags.php:141
+#, php-format
+msgid "Year: %s"
+msgstr "Année : %s"
+
+#: inc/template-tags.php:141
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:143
+#, php-format
+msgid "Month: %s"
+msgstr "Mois : %s"
+
+#: inc/template-tags.php:143
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:145
+#, php-format
+msgid "Day: %s"
+msgstr "Jour : %s"
+
+#: inc/template-tags.php:145
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: inc/template-tags.php:148
+msgid "Asides"
+msgstr "Notes"
+
+#: inc/template-tags.php:150
+msgid "Galleries"
+msgstr "Galeries"
+
+#: inc/template-tags.php:152
+msgid "Images"
+msgstr "Images"
+
+#: inc/template-tags.php:154
+msgid "Videos"
+msgstr "Vidéos"
+
+#: inc/template-tags.php:156
+msgid "Quotes"
+msgstr "Citations"
+
+#: inc/template-tags.php:158
+msgid "Links"
+msgstr "Liens"
+
+#: inc/template-tags.php:160
+msgid "Statuses"
+msgstr "Statuts"
+
+#: inc/template-tags.php:162
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:164
+msgid "Chats"
+msgstr "Chats"
+
+#: inc/template-tags.php:167
+#, php-format
+msgid "Archives: %s"
+msgstr "Archives : %s"
+
+#: inc/template-tags.php:171
+#, php-format
+msgid "%1$s: %2$s"
+msgstr "%1$s : %2$s"
+
+#: inc/template-tags.php:173
+msgid "Archives"
+msgstr "Archives"
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Résultats de la recherche pour : %s"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Aucun résultat ne correspond à votre recherche."
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Prêt à publier votre premier article ? <a href=\"%1$s\">Commencez ici</a>."
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Aucun résultat ne correspond à vos critères de recherche. Essayez de nouveau "
+"avec des mots-clés différents."
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Il semble que nous ne pouvons trouver ce que vous cherchez. Essayez via le "
+"moteur de recherche"
+
+#: template-parts/content-page.php:18 template-parts/content-single.php:24
+#: template-parts/content.php:53
+msgid "Pages:"
+msgstr "Pages :"
+
+#: template-parts/content-search.php:45 template-parts/content.php:45
+msgid "Read more"
+msgstr "Lire la suite"
+
+#. Theme Name of the plugin/theme
+msgid "Material Design (par Amauri)"
+msgstr "Material Design (par Amauri)"
+
+#. Theme URI of the plugin/theme
+msgid "https://android.ferank.fr/"
+msgstr "https://android.ferank.fr/"
+
+#. Description of the plugin/theme
+msgid ""
+"This is a clean, modern and responsive theme focused on the content, based "
+"on the Material Design guidelines for Android App."
+msgstr ""
+"Thème épuré, moderne et responsive mettant l'accent sur le contenu et basé "
+"sur les recommandations de la conception d'app Android Material Design."
+
+#. Author of the plugin/theme
+msgid "Amauri CHAMPEAUX"
+msgstr "Amauri CHAMPEAUX"
+
+#. Author URI of the plugin/theme
+msgid "http://amauri.champeaux.fr/"
+msgstr "http://amauri.champeaux.fr/"

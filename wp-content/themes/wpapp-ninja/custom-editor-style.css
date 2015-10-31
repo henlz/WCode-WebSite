@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Roboto;
+    src: url(font/Roboto-Regular.ttf);
+}
+body#tinymce.wp-editor { 
+    font-family: Roboto, sans-serif; 
+    margin: 10px;
+    line-height: 23px;
+    font-size: 17px;
+	padding:20px;
+}
+
+body#tinymce.wp-editor a {
+    color: #FF5252;
+}
